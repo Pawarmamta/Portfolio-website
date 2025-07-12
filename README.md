@@ -1,6 +1,8 @@
 🚀 Personal Portfolio Website
+## 📸 Screenshot
 
-<img width="1889" height="895" alt="brave_screenshot_localhost" src="https://github.com/user-attachments/assets/d10aafc6-ceca-447e-aeaa-74c2c514f9d5" /># 
+![Screenshot](https://raw.githubusercontent.com/Pawarmamta/personal-portfolio/main/assets/screenshot.png)
+
 
 A modern and responsive developer portfolio website built with *React, **TailwindCSS, **Vite, **Lucide Icons, and **Radix UI*. This site includes dark/light mode, animated backgrounds, project showcases, and a contact form.
 
